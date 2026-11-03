@@ -1,7 +1,9 @@
 ### Vibe Engineer: construo produtos com IA sem abrir mão de testes, segurança e infraestrutura de verdade.
 
-Analista de ROV no offshore de dia, desenvolvedor à noite.<br>
-`Python` · `Rust` · `TypeScript` · `React` · `Linux / VPS`
+Analista de ROV no offshore de dia, desenvolvedor à noite.
+
+Defino o produto, a arquitetura e a stack certa para cada projeto. A IA escreve o código, e eu reviso, testo e coloco no ar.<br>
+<sub>Algumas stacks que já usei: Python · Rust · TypeScript · React · Linux / VPS</sub>
 
 ---
 
