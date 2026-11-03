@@ -28,4 +28,4 @@ Pesquisa e automação de trading algorítmico.<br>
 Com o Gustavo, levo atendimento no WhatsApp com IA e automações sob medida para pequenos negócios.
 
 #### 📫 Fale comigo
-[LinkedIn](https://www.linkedin.com/in/matheus-garcia-b91209176/)
+[LinkedIn](https://www.linkedin.com/in/matheus-garcia-b91209176/) · Discord: `garcia_019#9796`
