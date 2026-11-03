@@ -3,7 +3,9 @@
 Analista de ROV no offshore de dia, desenvolvedor à noite.
 
 Defino o produto, a arquitetura e a stack certa para cada projeto. A IA escreve o código, e eu reviso, testo e coloco no ar.<br>
-<sub>Algumas stacks que já usei: Python · Rust · TypeScript · React · Linux / VPS</sub>
+<sub>**Código:** Python · TypeScript · Rust · Go · CUDA · React · Tauri · Node.js</sub><br>
+<sub>**Dados e infra:** PostgreSQL · Redis · SQLite · Docker Swarm · Traefik · Nginx · GitHub Actions</sub><br>
+<sub>**IA e automação:** Gemini · OpenAI · n8n · APIs de WhatsApp, Telegram e YouTube</sub>
 
 ---
 
